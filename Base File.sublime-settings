@@ -5,5 +5,6 @@
 	"color_scheme": "Packages/User/IDLE+.tmTheme",
 	"font_size": 13,
 	"rulers": [80],
+	"vintage_start_in_command_mode": true,
 	"word_wrap": false
 }
