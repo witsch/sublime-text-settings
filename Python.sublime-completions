@@ -1,0 +1,9 @@
+{
+        "scope": "source.python - variable.other.python",
+
+        "completions":
+        [
+                { "trigger": "pdb", "contents": "import pdb; pdb.set_trace()" },
+                { "trigger": "utf8", "contents": "# -*- coding: utf-8 -*-" }
+        ]
+}
