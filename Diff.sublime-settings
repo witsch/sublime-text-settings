@@ -1,0 +1,4 @@
+{
+	"word_wrap": true,
+	"extensions": ["diff", "patch", "COMMIT_EDITMSG"]
+}
