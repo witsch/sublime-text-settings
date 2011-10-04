@@ -1,6 +1,6 @@
 // Place user-specific overrides in this file, to ensure they're preserved
 // when upgrading
 {
-	"folder_exclude_patterns": [".svn", ".git", "*.egg-info"],
+	"folder_exclude_patterns": [".svn", ".git", "*.egg-info", "test_builds"],
 	"ignored_packages": []
 }
