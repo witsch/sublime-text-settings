@@ -1,0 +1,25 @@
+{
+	"color_scheme": "Packages/User/IDLE+.tmTheme",
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		"*.egg-info",
+		"test_builds",
+		"develop-eggs",
+		"lib",
+		"parts",
+		"python",
+		"var"
+	],
+	"font_size": 12.0,
+	"ignored_packages":
+	[
+	],
+	"rulers":
+	[
+		80
+	],
+	"vintage_start_in_command_mode": true,
+	"word_wrap": false
+}
