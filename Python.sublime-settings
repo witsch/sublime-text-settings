@@ -1,5 +1,7 @@
 {
     "tab_size": 4,
     "translate_tabs_to_spaces": true,
-    "detect_indentation": false
+    "detect_indentation": false,
+    "extensions": ["py", "Git Blame"],
+    "word_wrap": false
 }
