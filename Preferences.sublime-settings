@@ -10,7 +10,10 @@
 		"lib",
 		"parts",
 		"python",
-		"var"
+		"var",
+		"htmlcov",
+		"*.egg",
+		"site-packages"
 	],
 	"font_size": 12.0,
 	"ignored_packages":
