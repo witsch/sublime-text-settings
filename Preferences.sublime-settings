@@ -15,6 +15,7 @@
 		"*.egg",
 		"site-packages"
 	],
+	"font_face": "Source Code Pro",
 	"font_size": 13,
 	"ignored_packages":
 	[
