@@ -2,18 +2,18 @@
 	"color_scheme": "Packages/User/IDLE+.tmTheme",
 	"folder_exclude_patterns":
 	[
-		".svn",
-		".git",
+		"*.egg",
 		"*.egg-info",
-		"test_builds",
+		".git",
+		".svn",
 		"develop-eggs",
+		"htmlcov",
 		"lib",
 		"parts",
 		"python",
-		"var",
-		"htmlcov",
-		"*.egg",
-		"site-packages"
+		"site-packages",
+		"test_builds",
+		"var"
 	],
 	"font_face": "Source Code Pro",
 	"font_size": 13,
